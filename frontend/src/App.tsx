@@ -10,7 +10,7 @@ import {
 	useMap, useMapsLibrary
 } from "@vis.gl/react-google-maps";
 
-const APIkey = "AIzaSyD5jLSPFZ_cHH6XhpTSvMeGYGyGW4g5vMs"
+const APIkey = "aaaa"
 const mapID = "b507d6f89beadb54"
 
 type Building = {
